@@ -1,0 +1,15 @@
+In run the main class file
+
+run these in postman
+http://localhost:8076/login
+
+http://localhost:8076/signup
+
+
+For using the database
+visit this
+http://localhost:8076/h2-console
+
+using this jdbc url - jdbc:h2:mem:testdb
+username = sa
+password - leave it empty
